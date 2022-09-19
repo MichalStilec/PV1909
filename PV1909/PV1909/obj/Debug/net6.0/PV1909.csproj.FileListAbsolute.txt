@@ -1,0 +1,15 @@
+M:\PV 2022-23\PV1909\PV1909\bin\Debug\net6.0\PV1909.exe
+M:\PV 2022-23\PV1909\PV1909\bin\Debug\net6.0\PV1909.deps.json
+M:\PV 2022-23\PV1909\PV1909\bin\Debug\net6.0\PV1909.runtimeconfig.json
+M:\PV 2022-23\PV1909\PV1909\bin\Debug\net6.0\PV1909.dll
+M:\PV 2022-23\PV1909\PV1909\bin\Debug\net6.0\PV1909.pdb
+M:\PV 2022-23\PV1909\PV1909\obj\Debug\net6.0\PV1909.csproj.AssemblyReference.cache
+M:\PV 2022-23\PV1909\PV1909\obj\Debug\net6.0\PV1909.GeneratedMSBuildEditorConfig.editorconfig
+M:\PV 2022-23\PV1909\PV1909\obj\Debug\net6.0\PV1909.AssemblyInfoInputs.cache
+M:\PV 2022-23\PV1909\PV1909\obj\Debug\net6.0\PV1909.AssemblyInfo.cs
+M:\PV 2022-23\PV1909\PV1909\obj\Debug\net6.0\PV1909.csproj.CoreCompileInputs.cache
+M:\PV 2022-23\PV1909\PV1909\obj\Debug\net6.0\PV1909.dll
+M:\PV 2022-23\PV1909\PV1909\obj\Debug\net6.0\refint\PV1909.dll
+M:\PV 2022-23\PV1909\PV1909\obj\Debug\net6.0\PV1909.pdb
+M:\PV 2022-23\PV1909\PV1909\obj\Debug\net6.0\PV1909.genruntimeconfig.cache
+M:\PV 2022-23\PV1909\PV1909\obj\Debug\net6.0\ref\PV1909.dll
